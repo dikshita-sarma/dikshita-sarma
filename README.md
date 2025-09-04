@@ -76,13 +76,4 @@ I'm a passionate technologist with a dual expertise in Data Science and Full Sta
 
 I'm always interested in collaborating on innovative projects and discussing new ideas. Feel free to reach out!
 
-## ☕ Support My Work
 
-<div align="center">
-  <p><strong>If you find my work valuable, consider buying me a coffee!</strong></p>
-  <p>Your support helps me create more awesome projects and contribute to the community.</p>
-  
-  <a href="https://www.buymeacoffee.com/dikshitasarma">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
-  </a>
-</div>
